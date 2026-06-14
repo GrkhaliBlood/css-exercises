@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+p{
+  background-color: palevioletred;
+}
+
+.imp{
+  font-size:36px;
+}
+
+#head1{
+  color:blue;
+  font-size:42px;
+}
+
+#head2{
+  background-color: #24f927;
+  font-size:30px;
+  font-weight: bold;
+}
